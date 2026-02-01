@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
+  <remote name="github" fetch="https://github.com/" />
   <project path="device/xiaomi/miatoll" name="Devendiran3544/device_xiaomi_miatoll" remote="github" revision="16" />
   <project path="vendor/xiaomi/miatoll" name="Devendiran3544/vendor_xiaomi_miatoll" remote="github" revision="16" />
   <project path="kernel/xiaomi/sm6250" name="Devendiran3544/kernel_xiaomi_sm6250" remote="github" revision="16" />
